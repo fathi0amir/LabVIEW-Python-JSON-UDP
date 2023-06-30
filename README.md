@@ -1,6 +1,6 @@
 # Fast Bidirectional Data Communication Between LabVIEW and Python
 
-In a (previous post)[https://github.com/fathi0amir/LV_Py_UDP] I have 
+In a [previous post](https://github.com/fathi0amir/LV_Py_UDP) I have 
 put together a demo to pass data between LabVIEW and Python through 
 UDP socket. However it was limited to passing variables values on 
 type double. On the each receiving ends the user need know the 
